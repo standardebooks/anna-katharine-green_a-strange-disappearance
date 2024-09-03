@@ -48,14 +48,14 @@
 		<meta id="collection-1" property="belongs-to-collection">Mr. Gryce</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young detective is challenged to find a missing woman in New York City.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;When the housekeeper of a New York City magnate reports that a young woman from her staff has gone missing, both the disappearance and the housekeeper’s behavior strike the police as odd. The senior detective, Mr. Gryce, seems to detect some decisive clues which elude his younger colleague, Q, who is charged with the investigation.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;A Strange Disappearance&lt;/i&gt; is the second outing for &lt;a href="https://standardebooks.org/collections/mr-gryce"&gt;Mr. Gryce&lt;/a&gt;. Much like the earlier novel, &lt;a href="https://standardebooks.org/ebooks/anna-katharine-green/the-leavenworth-case"&gt;&lt;i&gt;The Leavenworth Case&lt;/i&gt;&lt;/a&gt;, he does not often take center stage, but his interventions are decisive in unravelling the mystery.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1167</dc:source>
 		<dc:source>https://books.google.com/books?id=rwtFAQAAMAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
@@ -65,10 +65,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anna_Katharine_Green</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50046883</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Leon Kroll</dc:contributor>
+		<meta property="file-as" refines="#artist">Kroll, Leon</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Leon_Kroll</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n83053016</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Lisa Bennett</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Bennett, Lisa</meta>
