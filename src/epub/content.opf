@@ -58,7 +58,6 @@
 		<dc:source>https://books.google.com/books?id=rwtFAQAAMAAJ</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anna-katharine-green_a-strange-disappearance</meta>
 		<dc:creator id="author">Anna Katharine Green</dc:creator>
 		<meta property="file-as" refines="#author">Green, Anna Katharine</meta>
